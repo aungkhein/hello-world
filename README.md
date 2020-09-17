@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+
+Aung here, I like dimsum and I love to play games and watch movies.
+I've breakfast this morning and will eat lunch at afternoon.
